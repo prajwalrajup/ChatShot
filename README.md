@@ -1,6 +1,6 @@
 # Chat Shot
 
-This program logs into WhatsApp web and takes continuous screenshots to back up chats.
+The WhatsApp web chat backup application is a program that takes continuous screenshots of the active chat window on WhatsApp web to back up the chat in real-time. The program runs in the background with a cron setup, and the backup process is automated without the need for user intervention. The backup location is customizable, and the backup interval is flexible, allowing the user to set the frequency of backups. The application is compatible with various operating systems and browsers that support WhatsApp web.
 
 ## Usage
 
